@@ -1,0 +1,6 @@
+sku,name,category,quantity,minimum_stock,unit_cost,supplier
+ELEC-001,USB-C Hub,Elektronik,8,10,24.90,TechSupply
+OFF-001,A4 Paper,Ofis,42,20,5.50,OfficePro
+PKG-001,Karton Kutu M,Ambalaj,6,12,2.75,PackCo
+SAF-001,İş Eldiveni,Güvenlik,25,15,3.20,SafeWear
+
