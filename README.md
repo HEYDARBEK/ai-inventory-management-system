@@ -2,7 +2,7 @@
 
 > AI-ready inventory operations dashboard for local Windows workflows.
 
-Yerel çalışan, portföy amaçlı bir stok yönetimi MVP'si. Ürün CRUD, CSV/XLSX içe aktarma, ürün bazlı minimum stok eşikleri, düşük stok uyarıları, dashboard metrikleri ve yalnızca gerçek envanter verisine dayalı yönetim özeti içerir.
+Yerel çalışan bir stok yönetimi MVP’si. Ürün CRUD, CSV/XLSX içe aktarma, ürün bazlı minimum stok eşikleri, düşük stok uyarıları, dashboard metrikleri ve gerçek envanter verisine dayalı yönetim özeti içerir.
 
 ## Kurulum
 
