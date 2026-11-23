@@ -1,8 +1,8 @@
 # AI Inventory Management System
 
-> AI-ready inventory operations dashboard for local Windows workflows.
+![StockPilot dashboard preview](docs/screenshots/dashboard-preview.svg)
 
-Yerel çalışan bir stok yönetimi MVP’si. Ürün CRUD, CSV/XLSX içe aktarma, ürün bazlı minimum stok eşikleri, düşük stok uyarıları, dashboard metrikleri ve gerçek envanter verisine dayalı yönetim özeti içerir.
+Yerel çalışan, portföy amaçlı bir stok yönetimi MVP'si. Ürün CRUD, CSV/XLSX içe aktarma, ürün bazlı minimum stok eşikleri, düşük stok uyarıları, dashboard metrikleri ve yalnızca gerçek envanter verisine dayalı yönetim özeti içerir.
 
 ## Kurulum
 
